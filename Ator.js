@@ -4,7 +4,7 @@ let yAtor = 370;
 let colide = false;
 let meusPontos = 0;
 function mostraAtor() {
-  image(imagemAtor, xAtor, yAtor, 30, 30);
+  image(imagemAtor, xAtor, yAtor, 50, 50);
 }
 
 function movimentaAtor() {
