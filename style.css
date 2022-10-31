@@ -3,5 +3,9 @@ html, body {
   padding: 0;
 }
 canvas {
+  position: absolute;
+  top: 35vh;
+  left: 25vw;
+
   display: block;
 }
